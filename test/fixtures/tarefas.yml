@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  data: 2020-09-14
+  hora: 2020-09-14
+  user: one
+
+two:
+  name: MyString
+  data: 2020-09-14
+  hora: 2020-09-14
+  user: two
